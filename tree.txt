@@ -1,0 +1,147 @@
+.
+├── app.py
+├── app_with_thumbnails.py
+├── media
+│   ├── Movies
+│   │   ├── Black.Rabbit.S01E01.720p.HEVC.x265-MeGusta[EZTVx.to].mkv
+│   │   ├── Black.Rabbit.S01E02.720p.HEVC.x265-MeGusta[EZTVx.to].mkv
+│   │   ├── Most.Wanted.Teen.Hacker.S01E01.XviD-AFG[EZTVx.to].avi
+│   │   ├── Most.Wanted.Teen.Hacker.S01E02.720p.HEVC.x265-MeGusta[EZTVx.to].mkv
+│   │   ├── Most Wanted Teen Hacker S01E03 720p WEB H264-JFF[EZTVx.to].mkv
+│   │   └── thumb.jpg
+│   ├── Music
+│   │   ├── Shmateo_going_crazy_pt.2.mp4
+│   │   └── thumb.jpg
+│   └── TV-Shows
+│       ├── Black.Bird.S01.COMPLETE.720p.ATVP.WEBRip.x264-GalaxyTV[TGx]
+│       │   ├── Black.Bird.S01E01.720p.ATVP.WEBRip.x264-GalaxyTV.mkv
+│       │   ├── Black.Bird.S01E02.720p.ATVP.WEBRip.x264-GalaxyTV.mkv
+│       │   ├── Black.Bird.S01E03.720p.ATVP.WEBRip.x264-GalaxyTV.mkv
+│       │   ├── Black.Bird.S01E04.720p.ATVP.WEBRip.x264-GalaxyTV.mkv
+│       │   ├── Black.Bird.S01E05.720p.ATVP.WEBRip.x264-GalaxyTV.mkv
+│       │   ├── Black.Bird.S01E06.720p.ATVP.WEBRip.x264-GalaxyTV.mkv
+│       │   ├── [TGx]Downloaded from torrentgalaxy.to .txt
+│       │   └── thumb.jpg
+│       ├── Devs.S01.1080p.WEBRip.x265[eztv.re]
+│       │   ├── Devs.S01E01.1080p.WEBRip.x265-RARBG[eztv.re].mp4
+│       │   ├── Devs.S01E02.1080p.WEBRip.x265-RARBG[eztv.re].mp4
+│       │   ├── Devs.S01E03.1080p.WEBRip.x265-RARBG[eztv.re].mp4
+│       │   ├── Devs.S01E04.1080p.WEBRip.x265-RARBG[eztv.re].mp4
+│       │   ├── Devs.S01E05.1080p.WEBRip.x265-RARBG[eztv.re].mp4
+│       │   ├── Devs.S01E06.1080p.WEBRip.x265-RARBG[eztv.re].mp4
+│       │   ├── Devs.S01E07.1080p.WEBRip.x265-RARBG[eztv.re].mp4
+│       │   ├── Devs.S01E08.1080p.WEBRip.x265-RARBG[eztv.re].mp4
+│       │   ├── Subs
+│       │   │   ├── Devs.S01E01.1080p.WEBRip.x265-RARBG[eztv.re]
+│       │   │   │   ├── 2_English.srt
+│       │   │   │   └── 3_English.srt
+│       │   │   ├── Devs.S01E02.1080p.WEBRip.x265-RARBG[eztv.re]
+│       │   │   │   ├── 2_English.srt
+│       │   │   │   └── 3_English.srt
+│       │   │   ├── Devs.S01E03.1080p.WEBRip.x265-RARBG[eztv.re]
+│       │   │   │   ├── 2_English.srt
+│       │   │   │   └── 3_English.srt
+│       │   │   ├── Devs.S01E04.1080p.WEBRip.x265-RARBG[eztv.re]
+│       │   │   │   ├── 2_English.srt
+│       │   │   │   └── 3_English.srt
+│       │   │   ├── Devs.S01E05.1080p.WEBRip.x265-RARBG[eztv.re]
+│       │   │   │   ├── 2_English.srt
+│       │   │   │   └── 3_English.srt
+│       │   │   ├── Devs.S01E06.1080p.WEBRip.x265-RARBG[eztv.re]
+│       │   │   │   ├── 2_English.srt
+│       │   │   │   └── 3_English.srt
+│       │   │   ├── Devs.S01E07.1080p.WEBRip.x265-RARBG[eztv.re]
+│       │   │   │   ├── 2_English.srt
+│       │   │   │   └── 3_English.srt
+│       │   │   └── Devs.S01E08.1080p.WEBRip.x265-RARBG[eztv.re]
+│       │   │       ├── 2_English.srt
+│       │   │       └── 3_English.srt
+│       │   └── thumb.jpg
+│       ├── Severance Season 1 Mp4 1080p
+│       │   ├── Read Me.txt
+│       │   ├── Severance S01E01.mp4
+│       │   ├── Severance S01E02.mp4
+│       │   ├── Severance S01E03.mp4
+│       │   ├── Severance S01E04.mp4
+│       │   ├── Severance S01E05.mp4
+│       │   ├── Severance S01E06.mp4
+│       │   ├── Severance S01E07.mp4
+│       │   ├── Severance S01E08.mp4
+│       │   ├── Severance S01E09.mp4
+│       │   └── thumb.jpg
+│       ├── The Hack (TV Mini Series 2025) 720p WEB-DL HEVC x265 BONE
+│       │   ├── The Hack 2025 S01E01 720p WEB-DL HEVC x265 BONE.mkv
+│       │   ├── The Hack 2025 S01E02 720p WEB-DL HEVC x265 BONE.mkv
+│       │   ├── The Hack 2025 S01E03 720p WEB-DL HEVC x265 BONE.mkv
+│       │   ├── The Hack 2025 S01E04 720p WEB-DL HEVC x265 BONE.mkv
+│       │   ├── The Hack 2025 S01E05 720p WEB-DL HEVC x265 BONE.mkv
+│       │   ├── The Hack 2025 S01E06 720p WEB-DL HEVC x265 BONE.mkv
+│       │   ├── The Hack 2025 S01E07 720p WEB-DL HEVC x265 BONE.mkv
+│       │   └── thumb.jpg
+│       ├── The.Playlist.S01.COMPLETE.DUBBED.720p.NF.WEBRip.x264-GalaxyTV[TGx]
+│       │   ├── [TGx]Downloaded from torrentgalaxy.to .txt
+│       │   ├── The.Playlist.S01E01.DUBBED.720p.NF.WEBRip.x264-GalaxyTV.mkv
+│       │   ├── The.Playlist.S01E02.DUBBED.720p.NF.WEBRip.x264-GalaxyTV.mkv
+│       │   ├── The.Playlist.S01E03.DUBBED.720p.NF.WEBRip.x264-GalaxyTV.mkv
+│       │   ├── The.Playlist.S01E04.DUBBED.720p.NF.WEBRip.x264-GalaxyTV.mkv
+│       │   ├── The.Playlist.S01E05.DUBBED.720p.NF.WEBRip.x264-GalaxyTV.mkv
+│       │   ├── The.Playlist.S01E06.DUBBED.720p.NF.WEBRip.x264-GalaxyTV.mkv
+│       │   └── thumb.jpg
+│       └── Utopia AU S01-S05 (2014-2023) 720p WEB-DL H264 BONE
+│           ├── S01
+│           │   ├── thumb.jpg
+│           │   ├── Utopia.AU.S01E01.Wood.For.The.Trees.720p.WEB-DL.H264-BONE.mp4
+│           │   ├── Utopia.AU.S01E02.Protected.Species.720p.WEB-DL.H264-BONE.mp4
+│           │   ├── Utopia.AU.S01E03.Very.Fast.Turnover.720p.WEB-DL.H264-BONE.mp4
+│           │   ├── Utopia.AU.S01E04.Onwards.and.Upwards.720p.WEB-DL.H264-BONE.mp4
+│           │   ├── Utopia.AU.S01E05.Arts.and.Minds.720p.WEB-DL.H264-BONE.mp4
+│           │   ├── Utopia.AU.S01E06.Then.We.Can.Build.It.720p.WEB-DL.H264-BONE.mp4
+│           │   ├── Utopia.AU.S01E07.The.First.Project.720p.WEB-DL.H264-BONE.mp4
+│           │   └── Utopia.AU.S01E08.The.Whole.Enchilada.720p.WEB-DL.H264-BONE.mp4
+│           ├── S02
+│           │   ├── thumb.jpg
+│           │   ├── Utopia.AU.S02E01.A.Fresh.Start.720p.WEB-DL.H264-BONE.mp4
+│           │   ├── Utopia.AU.S02E02.Shovels.Ready.720p.WEB-DL.H264-BONE.mp4
+│           │   ├── Utopia.AU.S02E03.Keep.Out.Public.Property.720p.WEB-DL.H264-BONE.mp4
+│           │   ├── Utopia.AU.S02E04.Dot.Dot.Dot.720p.WEB-DL.H264-BONE.mp4
+│           │   ├── Utopia.AU.S02E05.Terminal.Problems.720p.WEB-DL.H264-BONE.mp4
+│           │   ├── Utopia.AU.S02E06.Starting.the.Conversation.720p.WEB-DL.H264-BONE.mp4
+│           │   ├── Utopia.AU.S02E07.Reporting.for.Duty.720p.WEB-DL.H264-BONE.mp4
+│           │   └── Utopia.AU.S02E08.Summit.Attempt.720p.WEB-DL.H264-BONE.mp4
+│           ├── S03
+│           │   ├── thumb.jpg
+│           │   ├── Utopia.AU.S03E01.Blue.Sky.Thinking.720p.WEB-DL.H264-BONE.mp4
+│           │   ├── Utopia.AU.S03E02.Smart.Cities.720p.WEB-DL.H264-BONE.mp4
+│           │   ├── Utopia.AU.S03E03.Nation.Shapers.720p.WEB-DL.H264-BONE.mp4
+│           │   ├── Utopia.AU.S03E04.Clause.for.Concern.720p.WEB-DL.H264-BONE.mp4
+│           │   ├── Utopia.AU.S03E05.Start.Up.720p.WEB-DL.H264-BONE.mp4
+│           │   ├── Utopia.AU.S03E06.Snouts.in.the.Trough.720p.WEB-DL.H264-BONE.mp4
+│           │   ├── Utopia.AU.S03E07.On.the.Defence.720p.WEB-DL.H264-BONE.mp4
+│           │   └── Utopia.AU.S03E08.Independence.Day.720p.WEB-DL.H264-BONE.mp4
+│           ├── S04
+│           │   ├── thumb.jpg
+│           │   ├── Utopia.AU.S04E01.The.Laws.the.Law.720p.WEB-DL.H264-BONE.mp4
+│           │   ├── Utopia.AU.S04E02.Working.With.chldren.720p.WEB-DL.H264-BONE.mp4
+│           │   ├── Utopia.AU.S04E03.Pipe.Dreams.720p.WEB-DL.H264-BONE.mp4
+│           │   ├── Utopia.AU.S04E04.Mission.Creeps.720p.WEB-DL.H264-BONE.mp4
+│           │   ├── Utopia.AU.S04E05.The.Blame.Game.720p.WEB-DL.H264-BONE.mp4
+│           │   ├── Utopia.AU.S04E06.Ticks.of.Approval.720p.WEB-DL.H264-BONE.mp4
+│           │   ├── Utopia.AU.S04E07.Levers.of.Power.720p.WEB-DL.H264-BONE.mp4
+│           │   └── Utopia.AU.S04E08.The.Ghost.of.Christmas.Future.720p.WEB-DL.H264-BONE.mp4
+│           └── S05
+│               ├── thumb.jpg
+│               ├── Utopia.AU.S05E01.The.Buck.Stops.Where.720p.WEB-DL.H264-BONE.mp4
+│               ├── Utopia.AU.S05E02.Grand.Designs.720p.WEB-DL.H264-BONE.mp4
+│               ├── Utopia.AU.S05E03.The.Promise.Land.720p.WEB-DL.H264-BONE.mp4
+│               ├── Utopia.AU.S05E04.Tunnel.Vision.720p.WEB-DL.H264-BONE.mp4
+│               ├── Utopia.AU.S05E05.Lights.Camera.Inaction.720p.WEB-DL.H264-BONE.mp4
+│               ├── Utopia.AU.S05E06.Story.Time.720p.WEB-DL.H264-BONE.mp4
+│               ├── Utopia.AU.S05E07.Frequently.Avoided.Questions.720p.WEB-DL.H264-BONE.mp4
+│               └── Utopia.AU.S05E08.Wide.Awoke.720p.WEB-DL.H264-BONE.mp4
+├── netflix_clone.db
+├── netflix.py
+├── __pycache__
+│   └── app.cpython-313.pyc
+└── tree.txt
+
+26 directories, 119 files
