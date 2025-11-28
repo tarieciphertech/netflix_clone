@@ -1,3 +1,4 @@
+#this code has some errors so its still under correction 
 #!/usr/bin/env python3
 """
 Netflix-like Local Media Server - single file
